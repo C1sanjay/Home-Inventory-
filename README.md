@@ -1,2 +1,2 @@
 # Home-Inventory-
-Home Inventory Manager Project Preview
+Home Inventory Manager Project
